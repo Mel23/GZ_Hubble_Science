@@ -1,4 +1,4 @@
-GZ science telecon - 17 Nov 2015
+AAS progress - 17 Nov 2015
 =====
 ### Progress Report - Red Disk Fraction project for 2016 AAS
 *Melanie Galloway*
