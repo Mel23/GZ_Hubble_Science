@@ -71,11 +71,15 @@ Right now I'm exploring which method is best for separating red, passive disk ga
 
 *Fig. 9: NUV - R vs R - J for 11,139 galaxies, after T. Melvin magnitude cut described above was applied. Colors represent the average value of p_features,best in each bin; bins with fewer than 20 galaxies are masked. *
 
+![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/color_mass_plot.png)
+
+*Fig. 10: NUV - R vs stellar mass for 11,139 galaxies, after T. Melvin magnitude cut described above was applied. Colors represent the average value of p_features,best in each bin; bins with fewer than 20 galaxies are masked. *
+
 
 #### Preliminary results using 11,139 galaxies using T. Melvin's magnitude cut and red sequence separation
 
 ![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/disk_fraction_p_bins.png)
 
 
-*Fig. 10: red galaxies / all galaxies vs redshift, where only galaxies with p_features in the range specified in the title of each are shown; ie the upper left plot should be red ellipticals / all ellipticals, the lower right should be red disks / all disks, with some mixing of morphologies in between. Red: The cut is made based on the weighted p_features value; hence the first plots are likely contaminated by disks. Green: The cut is made based on the debiased value of p_features, and only considered 'correctable' galaxies. This represents the most accurate value of p_features, so contamination in any bin is minimal. Blue: the cut is made based on the best value of p_features for the whole sample, so debiased if correctable, lower limit if uncorrectable, and weighted if neither.*
+*Fig. 11: red galaxies / all galaxies vs redshift, where only galaxies with p_features in the range specified in the title of each are shown; ie the upper left plot should be red ellipticals / all ellipticals, the lower right should be red disks / all disks, with some mixing of morphologies in between. Red: The cut is made based on the weighted p_features value; hence the first plots are likely contaminated by disks. Green: The cut is made based on the debiased value of p_features, and only considered 'correctable' galaxies. This represents the most accurate value of p_features, so contamination in any bin is minimal. Blue: the cut is made based on the best value of p_features for the whole sample, so debiased if correctable, lower limit if uncorrectable, and weighted if neither.*
 
