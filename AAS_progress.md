@@ -72,11 +72,11 @@ Right now I'm exploring which method is best for separating red, passive disk ga
 
 ![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/color_mag_plot.png)
 
-*Fig. 8: NUV - R vs R for 11,139 galaxies, after T. Melvin magnitude cut described above was applied. Colors represent the average value of p_features,best in each bin; bins with fewer than 20 galaxies are masked. Blue lines indicate the separation of red sequence and blue cloud derived by T. Melvin.*
+*Fig. 9: NUV - R vs R for 11,139 galaxies, after T. Melvin magnitude cut described above was applied. Colors represent the average value of p_features,best in each bin; bins with fewer than 20 galaxies are masked. Blue lines indicate the separation of red sequence and blue cloud derived by T. Melvin.*
 
 ![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/color_color_plot.png)
 
-*Fig. 9: NUV - R vs R - J for 11,139 galaxies, after T. Melvin magnitude cut described above was applied. Colors represent the average value of p_features,best in each bin; bins with fewer than 20 galaxies are masked. *
+*Fig. 10: NUV - R vs R - J for 11,139 galaxies, after T. Melvin magnitude cut described above was applied. Colors represent the average value of p_features,best in each bin; bins with fewer than 20 galaxies are masked. *
 
 ![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/color_mass_plot.png)
 
