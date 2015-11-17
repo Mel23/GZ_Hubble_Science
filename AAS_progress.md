@@ -77,5 +77,5 @@ Right now I'm exploring which method is best for separating red, passive disk ga
 ![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/disk_fraction_p_bins.png)
 
 
-*Fig. 10: red disks / all disks vs redshift for increasing values of p_features*
+*Fig. 10: red galaxies / all galaxies vs redshift, where only galaxies with p_features in the range specified in the title of each are shown; ie the upper left plot should be red ellipticals / all ellipticals, the lower right should be red disks / all disks, with some mixing of morphologies in between. Red: The cut is made based on the weighted p_features value; hence the first plots are likely contaminated by disks. Green: The cut is made based on the debiased value of p_features, and only considered 'correctable' galaxies. This represents the most accurate value of p_features, so contamination in any bin is minimal. Blue: the cut is made based on the best value of p_features for the whole sample, so debiased if correctable, lower limit if uncorrectable, and weighted if neither.*
 
