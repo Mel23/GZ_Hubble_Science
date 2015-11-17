@@ -90,3 +90,20 @@ Right now I'm exploring which method is best for separating red, passive disk ga
 
 *Fig. 11: red galaxies / all galaxies vs redshift, where only galaxies with p_features in the range specified in the title of each are shown; ie the upper left plot should be red ellipticals / all ellipticals, the lower right should be red disks / all disks, with some mixing of morphologies in between. Red: The cut is made based on the weighted p_features value; hence the first plots are likely contaminated by disks. Green: The cut is made based on the debiased value of p_features, and only considered 'correctable' galaxies. This represents the most accurate value of p_features, so contamination in any bin is minimal. Blue: the cut is made based on the best value of p_features for the whole sample, so debiased if correctable, lower limit if uncorrectable, and weighted if neither.*
 
+### Probable questions about disk fraction (Figure 11):
+### Q: Why do the total red population fractions go down as we move higher in p_features?
+A: Ellipticals are more likely to be in the red sequence, so we expect a higher fraction of them in the red sequence, which corresponds to low p_features values. 
+### Q: Why is the debiased (green) line zero / why aren't there any galaxies at low p_features values? 
+A: From the FERENGI analysis, we found that galaxies with low p_features values (especially at high redshift) could not be distinguished between being a disk or elliptical, hence this "correctable" sample does not contain very many galaxies with low p_features. 
+### Q: Why do the red (weighted) and best (blue) lines diverge as we move higher in p_features?
+A: Recall that the best value for a given galaxy is exactly the weighted value if it is not in the correctable/uncorrectable region of SB/z space. At low p_features, most of the best values will be either weighted or the lower limit, since there are not very many debiasable galaxies there. As we move higher in p_features, more of the galaxies have debiased values for their best value, so the lines converge. 
+### Q: Why is this so confusing?
+A: I don't know. Science. 
+
+
+#### Where to go next
+Step 1: The biggest issue right now is creating a clean sample that can actually probe the question - How does the fraction of red disk galaxies change from redshift 1.0 to 0.2? Goal: Define an unbiased sample of red sequence disk galaxies and measure the fraction in each redshift bin.
+
+Step 2: Once we are confident in results of Step 1, come up with possible models that explain how galaxies evolve from/to different color/morphology spaces. 
+    
+
