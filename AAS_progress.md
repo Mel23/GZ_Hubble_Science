@@ -56,7 +56,7 @@ Here are 16 randomly selected images of galaxies in the extreme regions of the s
 
 Upon viewing the images, it seems the trend at high redshift is driven by the fact that the high surface brightness galaxies are small and centrally concentrated - so either very bulge-dominated disks or actual ellipticals, which both tend to obtain low p_features values by users. Based on this, we'll take another look at the surface brightness distribution of p_features, but only after applying a magnitude cut:
 
-![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/mag__limited_SB_p_features.png)
+![Visit GitHub!](https://github.com/Mel23/GZ_Hubble_Science/blob/master/Red_Disk_Fraction/mag_limited_SB_p_features.png)
 
 *Fig. 8: Same as Figure 3, only including galaxies as bright as M(R) < -21 This includes 18,954 galaxies.*
 
