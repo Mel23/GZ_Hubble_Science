@@ -31,3 +31,8 @@ Take-away: Looks good?
 *Incompleteness for all FERENGI galaxies - black are the correctable galaxies, red are uncorrectable. Observed values are the 'debiased' value - clearly uncorrectable galaxies get boosted too high; contaminating our observed poputlation of disks with ellipticals (upper left region in each square).*
 
 
+| | 0.2<z<0.4| 0.4<z<0.6| 0.6<z<0.8| 0.8<z<1.0| 
+| -----| ------:|-----:| ------:|-----:|
+|Red Disks| 111|246| 320| 162|
+| All Disks| 934|1112| 1033| 413|
+| fraction| 0.12 &plusmn; 0.02|0.22 &plusmn; 0.02| 0.31 &plusmn; 0.03| 0.39 &plusmn; 0.04|
