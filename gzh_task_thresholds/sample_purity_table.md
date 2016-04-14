@@ -22,4 +22,8 @@
 |                                                          |        |        |        |       |             |      |
 | Task 16: clump number candidates                         |  48    |96%     | 1      |2  %   | 1           |2 %   | 
 | Task 16: Control: non-clump number candidates            | 50     |100%    | 0      |0%     | 0           | 0 %  |
+|                                                          |        |        |        |       |             |      |
+|                                                          |        |        |        |       |             |      |
+| Task 15: clump arrangement candidates                    |  45    |80%     | 0      |0  %   | 5           |10%   | 
+| Task 15: Control: non-clump arrangement candidates       | 55     |80%     | 0      |0%     | 5           |10 %  |
 
