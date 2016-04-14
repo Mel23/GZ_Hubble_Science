@@ -10,4 +10,8 @@
 |                                                          |        |        |        |       |             |      |
 | Task 03/04/05: bar/spiral/bulge candidates               | 40     |80%     | 0      |10 %   | 10          |10 %   | 
 | Task 03/04/05 Control: non-bar/spiral/bulge candidates   | 11     |0%      | 0      |0%     | 0           |0 %   |
+|                                                          |        |        |        |       |             |      |
+|                                                          |        |        |        |       |             |      |
+| Task 10/11: arm number/winding candidates                |  47    |94%     | 1      |2  %   | 2           |4 %   | 
+| Task 10/11 Control: non- arm number/winding candidates   | 2      |40%     | 0      |0%     | 3           |60 %  |
 
