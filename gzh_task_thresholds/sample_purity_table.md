@@ -26,4 +26,8 @@
 |                                                          |        |        |        |       |             |      |
 | Task 15: clump arrangement candidates                    |  45    |80%     | 0      |0  %   | 5           |10%   | 
 | Task 15: Control: non-clump arrangement candidates       | 55     |80%     | 0      |0%     | 5           |10 %  |
+|                                                          |        |        |        |       |             |      |
+|                                                          |        |        |        |       |             |      |
+| Task 13: bright clump candidates                         |  45    |80%     | 1      |2  %   | 4           |8%    | 
+| Task 13: Control: bright clump candidates                | 26     |100%    | 0      |0%     | 0           | 0 %  |
 
