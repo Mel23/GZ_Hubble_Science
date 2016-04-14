@@ -24,10 +24,19 @@
 | Task 16: Control: non-clump number candidates            | 50     |100%    | 0      |0%     | 0           | 0 %  |
 |                                                          |        |        |        |       |             |      |
 |                                                          |        |        |        |       |             |      |
-| Task 15: clump arrangement candidates                    |  45    |80%     | 0      |0  %   | 5           |10%   | 
-| Task 15: Control: non-clump arrangement candidates       | 55     |80%     | 0      |0%     | 5           |10 %  |
+| Task 15: clump arrangement candidates                    |  45    |90%     | 0      |0  %   | 5           |10%   | 
+| Task 15: Control: non-clump arrangement candidates       | 45     |90%     | 0      |0%     | 5           |10 %  |
 |                                                          |        |        |        |       |             |      |
 |                                                          |        |        |        |       |             |      |
-| Task 13: bright clump candidates                         |  45    |80%     | 1      |2  %   | 4           |8%    | 
+| Task 13: bright clump candidates                         |  45    |90%     | 1      |2  %   | 4           |8%    | 
 | Task 13: Control: bright clump candidates                | 26     |100%    | 0      |0%     | 0           | 0 %  |
+|                                                          |        |        |        |       |             |      |
+|                                                          |        |        |        |       |             |      |
+| Task 14: bright central clump candidates                 |  47    |94%     | 0      |0  %   | 3           |6%    | 
+| Task 14: Control: bright central clump candidates        | 50     |100%    | 0      |0%     | 0           | 0 %  |
+|                                                          |        |        |        |       |             |      |
+|                                                          |        |        |        |       |             |      |
+| Task 07: rounded candidates                              |  40    |80%     | 2      |4  %   | 8           |16%    | 
+| Task 07: Control: rounded candidates                     |  45    |90%     | 1      |2%     | 4           | 8 %  |
+
 
