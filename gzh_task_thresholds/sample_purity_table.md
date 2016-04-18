@@ -1,6 +1,6 @@
 | Task                                                     | N_good |% good  |N_bad   |% bad  |N_uncertain  |% uncertain |
-|                                                          | MG/KW  | MG/KW  | MG/KW  | MG/KW | MG          | MG   | 
 | -----                                                    | ------:|-----:  | ------:|-----: | ------:     |-----:|
+|                                                          | MG/KW  | MG/KW  | MG/KW  | MG/KW | MG          | MG   | 
 | Task 12: clumpy candidates                               | 50/49  |100/98  | 0/1    |0/0    | 0           |0     | 
 | Task 12 Control: non-clumpy candidates                   | 4/37   |8/93    | 4/3    |8/7    | 42          |84    |
 |                                                          |        |        |        |       |             |      |
@@ -39,3 +39,4 @@
 |                                                          |        |        |        |       |             |      |
 | Task 07: rounded candidates                              | 40/46  |80/92   | 2/3    |4/8    | 8           |16    | 
 | Task 07: Control: rounded candidates                     | 45/43  |90/86   | 1/1    |2/14   | 4           | 8    |
+
