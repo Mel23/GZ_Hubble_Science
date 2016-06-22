@@ -4,7 +4,7 @@ survey_id	String		unique ID given by target survey
 imaging	String		survey source of image
 RA	Double	J2000 degrees	right ascension
 DEC	Double	J2000 degrees	declination
-Z_BEST	Double		best' redshift selected from 4 source catalogs; see Willett & Galloway et al. 2016 Section 2.6
+Z_BEST	Double	some unit	best' redshift selected from 4 source catalogs; see Willett & Galloway et al. 2016 Section 2.6
 Z_BEST_TYPE	String		best' redshift type: SPEC_Z = spectroscopic, PHOTO_Z = photometric, GRISM_Z = grism
 Z_BEST_SOURCE	String		source catalog of best redshift ACS-GC, 3DHST, MUSYC, and UltraVISTA
 NTOT_HI	Integer		ACS-GC measured Total number of objects simulaneously fitted 
